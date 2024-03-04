@@ -1,4 +1,4 @@
-from setuptools import setup
+import setuptools 
 
 # setup(name='helloworld',
 #       version='0.1',
@@ -8,7 +8,7 @@ from setuptools import setup
 #       license='MIT',
 #       zip_safe=False)
 
-setup(
+setuptools.setup(
     name="hello_world",
     version="0.0.1",
     author="Sneh SHah",
