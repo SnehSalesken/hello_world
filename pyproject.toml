@@ -1,0 +1,10 @@
+[project]
+name = "hello_world_SnehSalesken"
+version = "0.0.1"
+authors = [
+  { name="Sneh", email="Sneh@Salesken.ai" },
+]
+description = "A small example package"
+requires-python = ">=3.8"
+[project.urls]
+Homepage = "https://github.com/SnehSalesken/hello_world.git"
