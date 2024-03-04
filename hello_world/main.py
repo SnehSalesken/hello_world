@@ -1,2 +1,2 @@
-def example():
-    print(f"hello world")
+def world():
+	return "world"
